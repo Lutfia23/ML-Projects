@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+scikit-learn
+matplotlib
+ipywidgets
+widgetsnbextension
+xgboost
+
+
+#-e
