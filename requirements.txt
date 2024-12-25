@@ -6,6 +6,6 @@ matplotlib
 ipywidgets
 widgetsnbextension
 xgboost
-
+flask
 
 #-e
